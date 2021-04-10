@@ -13,16 +13,16 @@ Task:
 ### Install dependancies
 
 For server:
-#### / > `npm install`
+#### \ > `npm install`
 
 For client:
-#### /client > `npm install`
+#### \client > `npm install`
 
 ### Run
 
 For server:
-#### / > `npm run server`
+#### \ > `npm run server`
 
 For client:
-#### /client > `npm start`
+#### \client > `npm start`
 
