@@ -10,7 +10,7 @@ Task:
 #### Node `v14.16.1`
 #### DB `MongoDB`
 
-### Install dependancies
+### Install dependencies
 
 For server:
 #### \ > `npm install`
